@@ -1,0 +1,25 @@
+{
+  "name": "dreamy-wavy-effect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "watch": "parcel watch index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "gsap": "^3.6.0",
+    "ogl": "^0.0.65",
+    "tweakpane": "^2.1.1"
+  },
+  "browserslist": [
+    "last 1 Chrome versions"
+  ]
+}
